@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/tea-react/static/css/main.f9f5c7cb.css",
+    "main.js": "/tea-react/static/js/main.4a4d380e.js",
+    "static/media/blog1.webp": "/tea-react/static/media/blog1.c717b1d60e6668dd0b6a.webp",
+    "static/media/hero.webp": "/tea-react/static/media/hero.359612e0ccd3fc29b09d.webp",
+    "static/media/blog3.webp": "/tea-react/static/media/blog3.e16538997408ff038450.webp",
+    "static/media/tea-logo.svg": "/tea-react/static/media/tea-logo.221546edc0da6d1f23e773d86c173b7d.svg",
+    "static/media/blog4.webp": "/tea-react/static/media/blog4.bcce72a1013e16ce94af.webp",
+    "static/media/puertea.webp": "/tea-react/static/media/puertea.247d0809872a9ae0f4f1.webp",
+    "static/media/greentea.webp": "/tea-react/static/media/greentea.9e69a05d8260c2bd1ffa.webp",
+    "static/media/oolongtea.webp": "/tea-react/static/media/oolongtea.d9adc085761aea22cd62.webp",
+    "static/media/blog2.webp": "/tea-react/static/media/blog2.730540b226c84b4eb0c0.webp",
+    "static/media/whitetea.webp": "/tea-react/static/media/whitetea.19074dc55898d7200696.webp",
+    "static/media/blacktea.webp": "/tea-react/static/media/blacktea.d7c6e858fc3bfd45b7d0.webp",
+    "static/media/pay1.svg": "/tea-react/static/media/pay1.ce8d7dd6ab003972647c3fda7130afcc.svg",
+    "static/media/prioritise1.svg": "/tea-react/static/media/prioritise1.c90c3d152e4896107db7758ed15c97de.svg",
+    "static/media/prioritise2.svg": "/tea-react/static/media/prioritise2.b5386ef403dacabcdfeae5adeef18e62.svg",
+    "static/media/media4.svg": "/tea-react/static/media/media4.9ce73e903446698381a4cbac8ffebe28.svg",
+    "static/media/pay3.svg": "/tea-react/static/media/pay3.c480345f39a77bd199d3e8c7b813bf4d.svg",
+    "static/media/pay4.svg": "/tea-react/static/media/pay4.0a4eaa0a53b661256bdef5a2cd42efa7.svg",
+    "static/media/tea-buy.svg": "/tea-react/static/media/tea-buy.b49a154a74917168b39ebfed5a59f290.svg",
+    "static/media/media3.svg": "/tea-react/static/media/media3.a67963f406f3db4043586743229aab3f.svg",
+    "static/media/media2.svg": "/tea-react/static/media/media2.33d4b06eadef67307e2dc6871543b277.svg",
+    "static/media/tea-person.svg": "/tea-react/static/media/tea-person.fa7a1ad4b0270a8bb6eb4a3c082b1d31.svg",
+    "static/media/pay2.svg": "/tea-react/static/media/pay2.8e9a8e95872ec99fbb0527fa730c05b9.svg",
+    "static/media/contact2.svg": "/tea-react/static/media/contact2.fcb6f07e84c981871e1adbc39b7ce16a.svg",
+    "static/media/prioritise4.svg": "/tea-react/static/media/prioritise4.957d778cbca5779bcc997c8e3be9e685.svg",
+    "index.html": "/tea-react/index.html",
+    "static/media/media1.svg": "/tea-react/static/media/media1.48fb03025fe174de8444e3cbac28b872.svg",
+    "static/media/tea-search.svg": "/tea-react/static/media/tea-search.37321e83efde83b4ef0e25e036b0a45a.svg",
+    "static/media/prioritise3.svg": "/tea-react/static/media/prioritise3.dd5cb7a95c003b93b360b66a289e9e9f.svg",
+    "static/media/contact1.svg": "/tea-react/static/media/contact1.dc6b0902305d4a925314744ac8ebe0cd.svg",
+    "main.f9f5c7cb.css.map": "/tea-react/static/css/main.f9f5c7cb.css.map",
+    "main.4a4d380e.js.map": "/tea-react/static/js/main.4a4d380e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9f5c7cb.css",
+    "static/js/main.4a4d380e.js"
+  ]
+}
