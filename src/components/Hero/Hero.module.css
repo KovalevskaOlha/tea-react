@@ -1,23 +1,40 @@
 .hero {
   background-image: url(../../assets/images/hero.webp);
   background-repeat: no-repeat;
-  background-position: bottom center;
+  background-position: bottom left;
   background-size: cover;
+}
+
+ @media screen and (min-width: 1240px) {
+  .hero {
+    background-position: bottom center;
+  }
 }
 
 .hero__inner {
   min-height: 500px;
-  padding-top: 254px;
+  padding-top: 276px;
+}
+
+ @media screen and (min-width: 1240px) {
+  .hero__inner {
+    padding-top: 254px;
+  }
 }
 
 .hero__title {
   color: #fff;
   font-family: Cormorant;
-  font-size: 60px;
+  font-size: 35px;
   font-weight: 400;
   line-height: 100%;
-  width: 789.507px;
   margin-bottom: 20px;
+}
+ @media screen and (min-width: 1240px) {
+  .hero__title {
+    font-size: 60px;
+    max-width: 789.507px;
+  }
 }
 
 .hero__text {
@@ -25,5 +42,10 @@
   font-family: Cormorant;
   font-size: 24px;
   font-weight: 400;
-  width: 557.651px;
+}
+
+ @media screen and (min-width: 1240px) {
+  .hero__text {
+    max-width: 557.651px;
+  }
 }

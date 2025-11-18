@@ -18,12 +18,12 @@ function App() {
         <Hero/>
         <Quote />
         <Collections />
-        <Reviews />
+        {/* <Reviews />
         <Blog />
         <More />
-        <Prioritise />
+        <Prioritise /> */}
       </main>
-      <Footer />
+      {/* <Footer /> */}
       
     </div>
   );

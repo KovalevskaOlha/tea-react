@@ -1,20 +1,44 @@
 .collection {
-  padding-bottom: 150px;
+  padding-bottom: 60px;
+}
+
+ @media screen and (min-width: 1240px) {
+  .collection {
+     padding-bottom: 150px;
+  }
 }
 
 .collection__title {
   color: #151618;
   font-family: Cormorant;
-  font-size: 40px;
+  font-size: 34px;
   font-weight: 400;
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
+}
+
+ @media screen and (min-width: 1240px) {
+  .collection__title {
+     margin-bottom: 40px;
+     font-size: 40px;
+  }
 }
 
 .collection__list {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
+  max-width: 406px;
+}
+
+ @media screen and (min-width: 1240px) {
+  .collection__list {
+      display: flex;
+      flex-wrap: nowrap;
+  justify-content: center;
   gap: 40px;
+  max-width: 1200px;
+  }
 }
 
 .collection__description {
@@ -27,6 +51,15 @@
 
 .collection__img {
      transition: transform 0.5s ease;
+     max-width: 180px;
+     max-height: 180px;
+}
+
+ @media screen and (min-width: 1240px) {
+  .collection__img {
+      max-width: 208px;
+     max-height: 208px;
+  }
 }
 
 .collection__img:hover {

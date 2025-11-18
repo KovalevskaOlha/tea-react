@@ -1,17 +1,32 @@
 .quote {
-  padding-top: 150px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+ @media screen and (min-width: 1240px) {
+  .quote {
+     padding-top: 150px;
   padding-bottom: 150px;
+  }
 }
 
 .quote__text {
   color: #151618;
   text-align: center;
-  font-family: Cormorant;
-  font-size: 40px;
+  font-family: Open Sans;
+  font-size: 16px;
   font-style: italic;
   font-weight: 300;
-  max-width: 800px;
+  max-width: 376px;
   margin: 0 auto;
-  background-color: #f7f2eaa5;
-  padding: 15px;
+  background-color: #e9e8e665;
+  padding: 5px;
+}
+
+ @media screen and (min-width: 1240px) {
+  .quote__text {
+     font-size: 40px;
+     max-width: 800px;
+     padding: 15px;
+  }
 }

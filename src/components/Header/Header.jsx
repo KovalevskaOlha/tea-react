@@ -2,6 +2,7 @@ import logo from "./../../assets/icons/tea-logo.svg";
 import buy from "./../../assets/icons/tea-buy.svg";
 import person from "./../../assets/icons/tea-person.svg";
 import search from "./../../assets/icons/tea-search.svg";
+import burger from "../../assets/icons/burger.svg";
 
 import styles from "./Header.module.css"; 
 
@@ -10,6 +11,9 @@ const Header = () => {
     <header>
       <div className="container">
         <div className={styles.header__inner}>
+          <button type="button" className={styles.header__burgerBtn}>
+            <img className={styles.header__burger} src={burger} alt="" />
+          </button>
 
           <a href="/" className={styles.logo}>
             <img src={logo} alt="tea logo" />
